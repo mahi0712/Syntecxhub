@@ -1,0 +1,51 @@
+2026-04-18 09:48:51.644839 - You: hello
+2026-04-18 09:50:35.814929 - You: hello
+2026-04-18 09:52:42.229360 - You: hey
+2026-04-18 09:52:42.229398 - Bot: Hey there!
+2026-04-18 09:52:52.490480 - You: my name is nainy
+2026-04-18 09:54:00.581790 - You: & C:/Users/kk/AppData/Local/Programs/Python/Python314/python.exe c:/Users/kk/OneDrive/Desktop/syntecxhub/chatbot.py
+2026-04-18 09:54:00.582059 - Bot: Python is a powerful and easy programming language.
+2026-04-18 09:54:14.714247 - You: hello
+2026-04-18 09:55:18.357824 - You: hello
+2026-04-18 09:58:12.445369 - You: hello
+2026-04-18 09:58:12.445422 - Bot: Hi!
+2026-04-18 09:58:23.274348 - You: my name is mahi
+2026-04-18 09:58:23.274414 - Bot: Nice to meet you, mahi
+2026-04-18 09:58:30.849139 - You: your name 
+2026-04-18 09:58:30.849588 - Bot: I'm your advanced chatbot
+2026-04-18 09:58:41.662216 - You: no your name is siri
+2026-04-18 09:58:41.662251 - Bot: I'm your advanced chatbot
+2026-04-18 09:58:52.493055 - You: yeah
+2026-04-18 09:58:52.493120 - Bot: mahi, I didn't understand that
+2026-04-18 09:59:13.644427 - You: what is ai
+2026-04-18 09:59:13.644461 - Bot: AI stands for Artificial Intelligence. It makes machines smart.
+2026-04-18 09:59:24.064103 - You: what is python
+2026-04-18 09:59:24.064217 - Bot: Python is a powerful and easy programming language.
+2026-04-18 09:59:42.549526 - You: how are u
+2026-04-18 09:59:42.549561 - Bot: mahi, I didn't understand that
+2026-04-18 09:59:49.369910 - You: date
+2026-04-18 09:59:49.370039 - Bot: Today's date: 18-04-2026
+2026-04-18 09:59:53.878861 - You: time
+2026-04-18 09:59:53.878891 - Bot: Current time: 09:59:53
+2026-04-18 09:59:59.272178 - You: goodbye
+2026-04-18 09:59:59.272201 - Bot: That's great to hear!
+2026-04-18 10:04:07.793236 - You: & C:/Users/kk/AppData/Local/Programs/Python/Python314/python.exe c:/Users/kk/OneDrive/Desktop/syntecxhub/chatbot.py
+2026-04-18 10:04:07.793411 - Bot: Python is a powerful and easy programming language.
+2026-04-18 10:04:10.541269 - You: 
+2026-04-18 10:04:10.541299 - Bot: mahi, I didn't understand that
+2026-04-18 10:04:11.965637 - You: 
+2026-04-18 10:04:11.965722 - Bot: mahi, I didn't understand that
+2026-04-18 10:08:52.573660 - You: & C:/Users/kk/AppData/Local/Programs/Python/Python314/python.exe "c:/Users/kk/OneDrive/Desktop/syntecxhub/sentiment analysis tool.py"
+2026-04-18 10:08:52.573713 - Bot: Current time: 10:08:51
+2026-04-18 10:09:14.492518 - You: just stop now 
+2026-04-18 10:09:14.492588 - Bot: mahi, I didn't understand that
+2026-04-18 10:09:18.729389 - You: bye 
+2026-04-18 10:09:18.729475 - Bot: mahi, I didn't understand that
+2026-04-18 10:10:11.008883 - You: & C:/Users/kk/AppData/Local/Programs/Python/Python314/python.exe "c:/Users/kk/OneDrive/Desktop/syntecxhub/sentiment analysis tool.py"
+2026-04-18 10:10:11.008939 - Bot: Current time: 10:10:10
+2026-04-18 10:10:17.756363 - You: & C:/Users/kk/AppData/Local/Programs/Python/Python314/python.exe "c:/Users/kk/OneDrive/Desktop/syntecxhub/sentiment analysis tool.py"
+2026-04-18 10:10:17.756431 - Bot: Current time: 10:10:17
+2026-04-18 10:10:33.982773 - You: & C:/Users/kk/AppData/Local/Programs/Python/Python314/python.exe "c:/Users/kk/OneDrive/Desktop/syntecxhub/sentiment analysis tool.py"
+2026-04-18 10:10:33.982809 - Bot: Current time: 10:10:33
+2026-04-18 10:13:08.796549 - You: & C:/Users/kk/AppData/Local/Programs/Python/Python314/python.exe "c:/Users/kk/OneDrive/Desktop/syntecxhub/sentiment analysis tool.py"
+2026-04-18 10:13:08.796613 - Bot: Current time: 10:13:08
